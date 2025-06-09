@@ -17,7 +17,7 @@ CifraDeCesar-Java/
 │ └── logica/
 │ └── CifraDeCesar.java
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Java 8
 - Eclipse IDE
